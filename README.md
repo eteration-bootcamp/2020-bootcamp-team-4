@@ -1,6 +1,12 @@
-# 2020 Bootcamp Team 4 - `<team-name>`
+# 2020 Bootcamp Team 4 - `Fantastic 4`
 
 ## Team Members
+
+Fırat Cem Topal
+Kamran Kamilli
+Mutlu Kökdemir
+Cansu Bozkurt
+
 
 | Role               | Name      |
 |--------------------|-----------|
@@ -8,6 +14,8 @@
 | Backend Developer  | Jane Doe  |
 
 ## Project
+
+Sinematik
 
 .
 .
