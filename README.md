@@ -15,7 +15,7 @@
 
 ## Project
 
-Sinematik
+CINEMATIC
 
 .
 .
