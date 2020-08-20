@@ -25,13 +25,10 @@ Sinematik
 
  ## Used Technologies
 
-  - .NET MVC
-  - C#
-  - MSSQL
-  - Razor
-  - Entity Framework
-  - Visual Studio
-  - SQL Server Management Studio
+  - JavaScript
+  - React.JS
+  - Node.JS
+  
   
 
 ## FRONTEND
