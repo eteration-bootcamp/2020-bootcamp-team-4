@@ -30,4 +30,19 @@ Sinematik
   - MSSQL
   - Razor
   - Entity Framework
+  - Visual Studio
+  - SQL Server Management Studio
+  
+
+## FRONTEND
+
+  - MockFlow Template
+  - HTML/CSS
+  - JavaScript
+  - Brackets
+  
+  
+## Analysis
+
+  - Trello
   
