@@ -2,10 +2,10 @@
 
 ## Team Members
 
-Fırat Cem Topal
-Kamran Kamilli
-Mutlu Kökdemir
-Cansu Bozkurt
+- Fırat Cem Topal
+- Kamran Kamilli
+- Mutlu Kökdemir
+- Cansu Bozkurt
 
 
 | Role               | Name      |
@@ -21,13 +21,13 @@ Sinematik
 .
 .
 
-BACKEND
+# BACKEND
 
-Used Technologies
+ ## Used Technologies
 
-  .NET MVC
-  C#
-  MSSQL
-  Razor
-  Entity Framework
+  - .NET MVC
+  - C#
+  - MSSQL
+  - Razor
+  - Entity Framework
   
