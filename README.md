@@ -20,3 +20,14 @@ Sinematik
 .
 .
 .
+
+BACKEND
+
+Used Technologies
+
+  .NET MVC
+  C#
+  MSSQL
+  Razor
+  Entity Framework
+  
