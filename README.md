@@ -26,7 +26,7 @@ CINEMATIC
  ## Used Technologies
 
   - JavaScript
-  - React.JS
+  - React
   - Node.JS
   
   
