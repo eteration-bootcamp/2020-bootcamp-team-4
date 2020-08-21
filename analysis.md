@@ -13,7 +13,7 @@
  
 ## System Requirement
 
- - If the user will create a new account, the name, surname, e-mail, password, password confirmation information and profile image received from the user should be registered as a    new user in the database.
+ - If the user will create a new account, the name, surname, e-mail, password, password confirmation information and received from the user should be registered as a new user in      the database.
  - If the user is going to log in, they should be able to log in with their e-mail and password information.
- - If the user wants to edit with the edit profile button on their profile page, they should be able to update their profile name and picture in the database.
+ - If the user wants to edit with the edit profile button on their profile page, they should be able to update their profile information in the database.
  - If the user wants to change the password with the settings button on their profile page, the password information must be updated in the database.
